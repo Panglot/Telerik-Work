@@ -18,11 +18,7 @@ namespace P01_AllocateArray
             {
                 Console.WriteLine(item);
             }
-
-            Console.WriteLine("Press enter to start over.");
-            Console.ReadLine();
-            Console.Clear();
-            Main();
-            }
+            Console.WriteLine();
+        }
     }
 }
