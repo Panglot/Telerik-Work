@@ -1,0 +1,6 @@
+F:\Telerik\C# Basics\Exam Practise\25 April 2016\P04-Batman\bin\Debug\P04-Batman.exe.config
+F:\Telerik\C# Basics\Exam Practise\25 April 2016\P04-Batman\bin\Debug\P04-Batman.exe
+F:\Telerik\C# Basics\Exam Practise\25 April 2016\P04-Batman\bin\Debug\P04-Batman.pdb
+F:\Telerik\C# Basics\Exam Practise\25 April 2016\P04-Batman\obj\Debug\P04-Batman.csprojResolveAssemblyReference.cache
+F:\Telerik\C# Basics\Exam Practise\25 April 2016\P04-Batman\obj\Debug\P04-Batman.exe
+F:\Telerik\C# Basics\Exam Practise\25 April 2016\P04-Batman\obj\Debug\P04-Batman.pdb

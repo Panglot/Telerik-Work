@@ -1,0 +1,6 @@
+H:\Telerik\C# Basics\HW01-ProgrammingIntro\P15-Age\bin\Debug\P15-Age.exe.config
+H:\Telerik\C# Basics\HW01-ProgrammingIntro\P15-Age\bin\Debug\P15-Age.exe
+H:\Telerik\C# Basics\HW01-ProgrammingIntro\P15-Age\bin\Debug\P15-Age.pdb
+H:\Telerik\C# Basics\HW01-ProgrammingIntro\P15-Age\obj\Debug\P15-Age.exe
+H:\Telerik\C# Basics\HW01-ProgrammingIntro\P15-Age\obj\Debug\P15-Age.pdb
+H:\Telerik\C# Basics\HW01-ProgrammingIntro\P15-Age\obj\Debug\P15-Age.csprojResolveAssemblyReference.cache

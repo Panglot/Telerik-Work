@@ -1,0 +1,5 @@
+H:\Telerik\C# Basics\HW01-ProgrammingIntro\P10-FormatCode\bin\Debug\P10-FormatCode.exe.config
+H:\Telerik\C# Basics\HW01-ProgrammingIntro\P10-FormatCode\bin\Debug\P10-FormatCode.exe
+H:\Telerik\C# Basics\HW01-ProgrammingIntro\P10-FormatCode\bin\Debug\P10-FormatCode.pdb
+H:\Telerik\C# Basics\HW01-ProgrammingIntro\P10-FormatCode\obj\Debug\P10-FormatCode.exe
+H:\Telerik\C# Basics\HW01-ProgrammingIntro\P10-FormatCode\obj\Debug\P10-FormatCode.pdb

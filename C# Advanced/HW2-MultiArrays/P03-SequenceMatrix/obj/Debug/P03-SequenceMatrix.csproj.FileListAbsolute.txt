@@ -1,0 +1,5 @@
+D:\Telerik\C# Advanced\HW2-MultiArrays\P03-SequenceMatrix\bin\Debug\P03-SequenceMatrix.exe.config
+D:\Telerik\C# Advanced\HW2-MultiArrays\P03-SequenceMatrix\bin\Debug\P03-SequenceMatrix.exe
+D:\Telerik\C# Advanced\HW2-MultiArrays\P03-SequenceMatrix\bin\Debug\P03-SequenceMatrix.pdb
+D:\Telerik\C# Advanced\HW2-MultiArrays\P03-SequenceMatrix\obj\Debug\P03-SequenceMatrix.exe
+D:\Telerik\C# Advanced\HW2-MultiArrays\P03-SequenceMatrix\obj\Debug\P03-SequenceMatrix.pdb

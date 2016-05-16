@@ -1,0 +1,5 @@
+D:\Telerik\C# Basics\HW04-CInAndOut\P03-Circle\bin\Debug\P03-Circle.exe.config
+D:\Telerik\C# Basics\HW04-CInAndOut\P03-Circle\bin\Debug\P03-Circle.exe
+D:\Telerik\C# Basics\HW04-CInAndOut\P03-Circle\bin\Debug\P03-Circle.pdb
+D:\Telerik\C# Basics\HW04-CInAndOut\P03-Circle\obj\Debug\P03-Circle.exe
+D:\Telerik\C# Basics\HW04-CInAndOut\P03-Circle\obj\Debug\P03-Circle.pdb

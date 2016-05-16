@@ -1,0 +1,6 @@
+D:\Telerik\C# Basics\HW06-Loops\P13-DecimalToHex\bin\Debug\P13-DecimalToHex.exe.config
+D:\Telerik\C# Basics\HW06-Loops\P13-DecimalToHex\bin\Debug\P13-DecimalToHex.exe
+D:\Telerik\C# Basics\HW06-Loops\P13-DecimalToHex\bin\Debug\P13-DecimalToHex.pdb
+D:\Telerik\C# Basics\HW06-Loops\P13-DecimalToHex\obj\Debug\P13-DecimalToHex.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Basics\HW06-Loops\P13-DecimalToHex\obj\Debug\P13-DecimalToHex.exe
+D:\Telerik\C# Basics\HW06-Loops\P13-DecimalToHex\obj\Debug\P13-DecimalToHex.pdb

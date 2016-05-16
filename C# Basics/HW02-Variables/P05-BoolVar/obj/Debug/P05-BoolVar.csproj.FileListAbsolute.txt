@@ -1,0 +1,5 @@
+D:\Telerik\C# Basics\HW02-Variables\P05-BoolVar\bin\Debug\P05-BoolVar.exe.config
+D:\Telerik\C# Basics\HW02-Variables\P05-BoolVar\bin\Debug\P05-BoolVar.exe
+D:\Telerik\C# Basics\HW02-Variables\P05-BoolVar\bin\Debug\P05-BoolVar.pdb
+D:\Telerik\C# Basics\HW02-Variables\P05-BoolVar\obj\Debug\P05-BoolVar.exe
+D:\Telerik\C# Basics\HW02-Variables\P05-BoolVar\obj\Debug\P05-BoolVar.pdb

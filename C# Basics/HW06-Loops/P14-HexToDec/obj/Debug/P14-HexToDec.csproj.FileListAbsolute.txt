@@ -1,0 +1,1 @@
+D:\Telerik\C# Basics\HW06-Loops\P14-HexToDec\bin\Debug\P14-HexToDec.exe.config

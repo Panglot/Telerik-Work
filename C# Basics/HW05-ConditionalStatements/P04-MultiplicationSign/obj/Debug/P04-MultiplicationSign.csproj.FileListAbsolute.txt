@@ -1,0 +1,5 @@
+H:\Telerik\C# Basics\HW05-ConditionalStatements\P04-MultiplicationSign\bin\Debug\P04-MultiplicationSign.exe.config
+H:\Telerik\C# Basics\HW05-ConditionalStatements\P04-MultiplicationSign\bin\Debug\P04-MultiplicationSign.exe
+H:\Telerik\C# Basics\HW05-ConditionalStatements\P04-MultiplicationSign\bin\Debug\P04-MultiplicationSign.pdb
+H:\Telerik\C# Basics\HW05-ConditionalStatements\P04-MultiplicationSign\obj\Debug\P04-MultiplicationSign.exe
+H:\Telerik\C# Basics\HW05-ConditionalStatements\P04-MultiplicationSign\obj\Debug\P04-MultiplicationSign.pdb

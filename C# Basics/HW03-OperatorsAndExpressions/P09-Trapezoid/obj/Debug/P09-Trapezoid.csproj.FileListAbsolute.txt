@@ -1,0 +1,9 @@
+D:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P09-Trapezoid\bin\Debug\P09-Trapezoid.exe.config
+D:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P09-Trapezoid\bin\Debug\P09-Trapezoid.exe
+D:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P09-Trapezoid\bin\Debug\P09-Trapezoid.pdb
+D:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P09-Trapezoid\obj\Debug\P09-Trapezoid.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P09-Trapezoid\obj\Debug\P09-Trapezoid.exe
+D:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P09-Trapezoid\obj\Debug\P09-Trapezoid.pdb
+H:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P09-Trapezoid\bin\Debug\P09-Trapezoid.exe.config
+H:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P09-Trapezoid\obj\Debug\P09-Trapezoid.exe
+H:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P09-Trapezoid\obj\Debug\P09-Trapezoid.pdb

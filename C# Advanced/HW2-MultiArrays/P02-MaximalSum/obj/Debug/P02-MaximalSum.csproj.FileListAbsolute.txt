@@ -1,0 +1,6 @@
+D:\Telerik\C# Advanced\HW2-MultiArrays\P02-MaximalSum\bin\Debug\P02-MaximalSum.exe.config
+D:\Telerik\C# Advanced\HW2-MultiArrays\P02-MaximalSum\bin\Debug\P02-MaximalSum.exe
+D:\Telerik\C# Advanced\HW2-MultiArrays\P02-MaximalSum\bin\Debug\P02-MaximalSum.pdb
+D:\Telerik\C# Advanced\HW2-MultiArrays\P02-MaximalSum\obj\Debug\P02-MaximalSum.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Advanced\HW2-MultiArrays\P02-MaximalSum\obj\Debug\P02-MaximalSum.exe
+D:\Telerik\C# Advanced\HW2-MultiArrays\P02-MaximalSum\obj\Debug\P02-MaximalSum.pdb

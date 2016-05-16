@@ -1,0 +1,32 @@
+
+List of integrated development environments (IDEs) I found 
+
+
+1. Visual studio
+	Microsoft Visual Studio is a good application development environment on Windows. Microsoft Visual Studio allows 
+	the users to create large number of different types of projects which definitely confuses programmers. But on the other
+	hand it gives ability to programmers to stick to Microsoft visual studio even if they switch to different project.
+	Microsoft Visual Studio is a really upscale IDE used by most professionals for developing applications under Windows.
+	
+2. Eclipse
+	This is the best alternative if you are not a big fan of Microsoft’s Visual Studio. The interface is a lot cleaner
+	and concise than Visual Studio and the languages that are possible to use extend past the .Net Framework.
+	Besides being the number on way to develop Android applications via the Android SDK, it is fully extensible to
+	use languagessuch as Ruby, C, C++ and many many more.
+
+3. Netbeans
+	The is the number one alternative to Eclipse. This program is extensible and free, and it compiles code which is a bonus.
+	When installing Netbeans it comes with a Java server called GlassFish that you could deploy on your computer for your
+	testing environment. This server is the second biggest server for Java next to WebSphere (which is a whole different ball game).
+
+4. Xcode
+	Xcode is an integrated development environment (IDE) containing a suite of software development tools developed by Apple for
+	developing software for OS X and iOS. First released in 2003, the latest stable release is version 5.0 and is available via the
+	Mac App Store free of charge for Mac OS X Lion and OS X Mountain Lion users. Registered developers can download preview releases
+	and previous versions of the suite through the Apple Developer website.
+
+5. Code::blocks
+	Code::Blocks is an open source full-featured cross-platform C/C++ integrated development environment.
+	Compared to Dev-C++ shares based on Delphi C++ IDE, Code::Blocks is an open source software. Code::Blocks is one of the pure
+	C++ language development environment, it uses a special GUI library wxWidgets. C++ programmers no longer have to endure the slow
+	Eclipse and no longer have to buy high-priced Visual studio.net

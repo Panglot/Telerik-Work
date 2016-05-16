@@ -1,0 +1,5 @@
+H:\Telerik\C# Basics\HW02-Variables\P14-ASCIIPrint\bin\Debug\P14-ASCIIPrint.exe.config
+H:\Telerik\C# Basics\HW02-Variables\P14-ASCIIPrint\bin\Debug\P14-ASCIIPrint.exe
+H:\Telerik\C# Basics\HW02-Variables\P14-ASCIIPrint\bin\Debug\P14-ASCIIPrint.pdb
+H:\Telerik\C# Basics\HW02-Variables\P14-ASCIIPrint\obj\Debug\P14-ASCIIPrint.exe
+H:\Telerik\C# Basics\HW02-Variables\P14-ASCIIPrint\obj\Debug\P14-ASCIIPrint.pdb

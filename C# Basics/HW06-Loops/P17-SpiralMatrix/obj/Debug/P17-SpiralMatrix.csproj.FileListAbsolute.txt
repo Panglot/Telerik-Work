@@ -1,0 +1,12 @@
+D:\Telerik\C# Basics\HW06-Loops\P17-SpiralMatrix\bin\Debug\P17-SpiralMatrix.exe.config
+D:\Telerik\C# Basics\HW06-Loops\P17-SpiralMatrix\bin\Debug\P17-SpiralMatrix.exe
+D:\Telerik\C# Basics\HW06-Loops\P17-SpiralMatrix\bin\Debug\P17-SpiralMatrix.pdb
+D:\Telerik\C# Basics\HW06-Loops\P17-SpiralMatrix\obj\Debug\P17-SpiralMatrix.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Basics\HW06-Loops\P17-SpiralMatrix\obj\Debug\P17-SpiralMatrix.exe
+D:\Telerik\C# Basics\HW06-Loops\P17-SpiralMatrix\obj\Debug\P17-SpiralMatrix.pdb
+H:\Telerik\C# Basics\HW06-Loops\P17-SpiralMatrix\bin\Debug\P17-SpiralMatrix.exe.config
+H:\Telerik\C# Basics\HW06-Loops\P17-SpiralMatrix\obj\Debug\P17-SpiralMatrix.exe
+H:\Telerik\C# Basics\HW06-Loops\P17-SpiralMatrix\obj\Debug\P17-SpiralMatrix.pdb
+H:\Telerik\C# Basics\HW06-Loops\P17-SpiralMatrix\bin\Debug\P17-SpiralMatrix.exe
+H:\Telerik\C# Basics\HW06-Loops\P17-SpiralMatrix\bin\Debug\P17-SpiralMatrix.pdb
+H:\Telerik\C# Basics\HW06-Loops\P17-SpiralMatrix\obj\Debug\P17-SpiralMatrix.csprojResolveAssemblyReference.cache

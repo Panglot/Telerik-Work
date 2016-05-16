@@ -1,0 +1,6 @@
+D:\Telerik\C# Basics\HW04-CInAndOut\P06-QuadraticEquation\bin\Debug\P06-QuadraticEquation.exe.config
+D:\Telerik\C# Basics\HW04-CInAndOut\P06-QuadraticEquation\bin\Debug\P06-QuadraticEquation.exe
+D:\Telerik\C# Basics\HW04-CInAndOut\P06-QuadraticEquation\bin\Debug\P06-QuadraticEquation.pdb
+D:\Telerik\C# Basics\HW04-CInAndOut\P06-QuadraticEquation\obj\Debug\P06-QuadraticEquation.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Basics\HW04-CInAndOut\P06-QuadraticEquation\obj\Debug\P06-QuadraticEquation.exe
+D:\Telerik\C# Basics\HW04-CInAndOut\P06-QuadraticEquation\obj\Debug\P06-QuadraticEquation.pdb

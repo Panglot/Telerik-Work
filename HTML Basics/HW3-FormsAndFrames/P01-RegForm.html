@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Reg Form</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 200;
+        }
+
+        td {
+            padding: 3px;
+        }
+
+        table,
+        td,
+        tr {
+            border: 1px solid black;
+        }
+
+        input {
+            width: 99%;
+        }
+
+        .bolded {
+            font-weight: bold;
+            text-align: right;
+        }
+
+        #Zip {
+            width: 40px;
+        }
+
+        .phone-short {
+            width: 30px;
+        }
+
+        .phone-long {
+            width: 60px;
+        }
+
+        .birth-short {
+            width: 20px;
+        }
+
+        .birth-long {
+            width: 40px;
+        }
+
+        .theRadio {
+            width: auto;
+        }
+    </style>
+</head>
+
+<body>
+    <form class="" action="index.html" method="get">
+        <table>
+            <tr>
+                <td class="bolded">
+                    Last Name
+                </td>
+                <td colspan="3">
+                    <input type="text" value="Nakov">
+                </td>
+            </tr>
+            <tr>
+                <td class="bolded">
+                    First Name
+                </td>
+                <td colspan="3">
+                    <input type="text" value="Svetlin">
+                </td>
+            </tr>
+            <tr>
+                <td class="bolded">
+                    Address
+                </td>
+                <td colspan="3">
+                    <input type="text" style="height:3em;" value="17 Hristo Botev Str.  floor 3, apt. 12">
+                </td>
+            </tr>
+            <tr>
+                <td class="bolded">
+                    City
+                </td>
+                <td>
+                    <input type="text" value="Kaspichan">
+                </td>
+                <td class="bolded">
+                    State
+                </td>
+                <td>
+                    <input type="text" name="" id="">
+                </td>
+            </tr>
+            <tr>
+                <td class="bolded">
+                    Zip/Postal Code
+                </td>
+                <td colspan="3">
+                    <input id="Zip" type="text" value="9325">
+                </td>
+            </tr>
+            <tr>
+                <td class="bolded">
+                    Country
+                </td>
+                <td colspan="3">
+                    <select class="" name="">
+                        <option value="BG">Bulgaria</option>
+                        <option value="US">United States</option>
+                        <option value="UK">England</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td class="bolded">
+                    Phone (country code, area code, number)
+                </td>
+                <td colspan="3">
+                    (+
+                    <input class="phone-short" type="text" value="359">)
+                    <input class="phone-short" type="text" value="88">-
+                    <input class="phone-long" type="text" value="8334343">
+                </td>
+            </tr>
+            <tr>
+                <td class="bolded">
+                    E-mail
+                </td>
+                <td colspan="3">
+                    <input type="text" value="nakov@kaspichan.org">
+                </td>
+            </tr>
+            <tr>
+                <td class="bolded">
+                    Birth date
+                </td>
+                <td colspan="3">
+                    Month
+                    <input class="birth-short" type="text" value="06"> Day
+                    <input class="birth-short" type="text" value="14"> Year (4 digit)
+                    <input class="birth-long" type="text" value="1980">
+                </td>
+            </tr>
+            <tr>
+                <td class="bolded">
+                    Gender
+                </td>
+                <td colspan="3">
+                    <select name="" id="">
+                        <option value="m">Male</option>
+                        <option value="f">Female</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td class="bolded">
+                    Starting Date
+                </td>
+                <td colspan="3">
+                    <input class="theRadio" type="radio" name="date">Spring 2006
+                    <input class="theRadio" type="radio" name="date">Summer 2006
+                </td>
+            </tr>
+            <tr>
+                <td class="bolded">
+                    Comments/Questions
+                </td>
+                <td colspan="3">
+                    <input type="text" style="height:5em;" value="Please send me more information about the logging.">
+                </td>
+            </tr>
+            <tr>
+                <td style="text-align: center; background-color: #99ffdd" colspan="4">
+                    <input style="width:auto;" type="submit" name="" value="Submit">
+                    <input style="width:auto;" type="button" name="name" value="Clear this form">
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+
+</html>

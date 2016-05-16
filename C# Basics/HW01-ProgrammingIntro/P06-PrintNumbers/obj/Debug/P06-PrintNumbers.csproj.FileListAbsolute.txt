@@ -1,0 +1,5 @@
+H:\Telerik\C# Basics\HW01-ProgrammingIntro\P06-PrintNumbers\bin\Debug\P06-PrintNumbers.exe.config
+H:\Telerik\C# Basics\HW01-ProgrammingIntro\P06-PrintNumbers\bin\Debug\P06-PrintNumbers.exe
+H:\Telerik\C# Basics\HW01-ProgrammingIntro\P06-PrintNumbers\bin\Debug\P06-PrintNumbers.pdb
+H:\Telerik\C# Basics\HW01-ProgrammingIntro\P06-PrintNumbers\obj\Debug\P06-PrintNumbers.exe
+H:\Telerik\C# Basics\HW01-ProgrammingIntro\P06-PrintNumbers\obj\Debug\P06-PrintNumbers.pdb

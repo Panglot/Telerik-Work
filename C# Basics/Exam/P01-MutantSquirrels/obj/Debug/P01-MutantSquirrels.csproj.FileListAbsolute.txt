@@ -1,0 +1,13 @@
+D:\Telerik\C# Basics\Exam\P01-MutantSquirrels\bin\Debug\P01-MutantSquirrels.exe.config
+C:\Dobri\Telerik\C# Basics\Exam\P01-MutantSquirrels\bin\Debug\P01-MutantSquirrels.exe.config
+C:\Dobri\Telerik\C# Basics\Exam\P01-MutantSquirrels\bin\Debug\P01-MutantSquirrels.exe
+C:\Dobri\Telerik\C# Basics\Exam\P01-MutantSquirrels\bin\Debug\P01-MutantSquirrels.pdb
+C:\Dobri\Telerik\C# Basics\Exam\P01-MutantSquirrels\obj\Debug\P01-MutantSquirrels.csprojResolveAssemblyReference.cache
+C:\Dobri\Telerik\C# Basics\Exam\P01-MutantSquirrels\obj\Debug\P01-MutantSquirrels.exe
+C:\Dobri\Telerik\C# Basics\Exam\P01-MutantSquirrels\obj\Debug\P01-MutantSquirrels.pdb
+H:\Telerik\C# Basics\Exam\P01-MutantSquirrels\bin\Debug\P01-MutantSquirrels.exe.config
+H:\Telerik\C# Basics\Exam\P01-MutantSquirrels\obj\Debug\P01-MutantSquirrels.exe
+H:\Telerik\C# Basics\Exam\P01-MutantSquirrels\obj\Debug\P01-MutantSquirrels.pdb
+F:\Telerik\C# Basics\Exam\P01-MutantSquirrels\bin\Debug\P01-MutantSquirrels.exe.config
+F:\Telerik\C# Basics\Exam\P01-MutantSquirrels\obj\Debug\P01-MutantSquirrels.exe
+F:\Telerik\C# Basics\Exam\P01-MutantSquirrels\obj\Debug\P01-MutantSquirrels.pdb

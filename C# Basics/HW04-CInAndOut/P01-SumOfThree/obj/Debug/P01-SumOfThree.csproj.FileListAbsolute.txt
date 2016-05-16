@@ -1,0 +1,5 @@
+D:\Telerik\C# Basics\HW04-CInAndOut\P01-SumOfThree\bin\Debug\P01-SumOfThree.exe.config
+D:\Telerik\C# Basics\HW04-CInAndOut\P01-SumOfThree\bin\Debug\P01-SumOfThree.exe
+D:\Telerik\C# Basics\HW04-CInAndOut\P01-SumOfThree\bin\Debug\P01-SumOfThree.pdb
+D:\Telerik\C# Basics\HW04-CInAndOut\P01-SumOfThree\obj\Debug\P01-SumOfThree.exe
+D:\Telerik\C# Basics\HW04-CInAndOut\P01-SumOfThree\obj\Debug\P01-SumOfThree.pdb

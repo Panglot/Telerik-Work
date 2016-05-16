@@ -1,0 +1,5 @@
+H:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P02-MoonGravity\bin\Debug\P02-MoonGravity.exe.config
+H:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P02-MoonGravity\bin\Debug\P02-MoonGravity.exe
+H:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P02-MoonGravity\bin\Debug\P02-MoonGravity.pdb
+H:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P02-MoonGravity\obj\Debug\P02-MoonGravity.exe
+H:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P02-MoonGravity\obj\Debug\P02-MoonGravity.pdb

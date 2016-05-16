@@ -1,0 +1,5 @@
+H:\Telerik\C# Basics\HW01-ProgrammingIntro\P07-FirstAndLastName\bin\Debug\P07-FirstAndLastName.exe.config
+H:\Telerik\C# Basics\HW01-ProgrammingIntro\P07-FirstAndLastName\bin\Debug\P07-FirstAndLastName.exe
+H:\Telerik\C# Basics\HW01-ProgrammingIntro\P07-FirstAndLastName\bin\Debug\P07-FirstAndLastName.pdb
+H:\Telerik\C# Basics\HW01-ProgrammingIntro\P07-FirstAndLastName\obj\Debug\P07-FirstAndLastName.exe
+H:\Telerik\C# Basics\HW01-ProgrammingIntro\P07-FirstAndLastName\obj\Debug\P07-FirstAndLastName.pdb

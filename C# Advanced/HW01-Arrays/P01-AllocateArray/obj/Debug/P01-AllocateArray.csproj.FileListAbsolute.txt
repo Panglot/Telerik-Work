@@ -1,0 +1,15 @@
+D:\Telerik\C# Advanced\HW01-Arrays\P01-AllocateArray\bin\Debug\P01_AllocateArray.exe.config
+D:\Telerik\C# Advanced\HW01-Arrays\P01-AllocateArray\bin\Debug\P01_AllocateArray.exe
+D:\Telerik\C# Advanced\HW01-Arrays\P01-AllocateArray\bin\Debug\P01_AllocateArray.pdb
+D:\Telerik\C# Advanced\HW01-Arrays\P01-AllocateArray\obj\Debug\P01-AllocateArray.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Advanced\HW01-Arrays\P01-AllocateArray\obj\Debug\P01_AllocateArray.exe
+D:\Telerik\C# Advanced\HW01-Arrays\P01-AllocateArray\obj\Debug\P01_AllocateArray.pdb
+H:\Telerik\C# Advanced\HW01-Arrays\P01-AllocateArray\bin\Debug\P01_AllocateArray.exe.config
+H:\Telerik\C# Advanced\HW01-Arrays\P01-AllocateArray\obj\Debug\P01_AllocateArray.exe
+H:\Telerik\C# Advanced\HW01-Arrays\P01-AllocateArray\obj\Debug\P01_AllocateArray.pdb
+H:\Telerik\C# Advanced\HW01-Arrays\P01-AllocateArray\bin\Debug\P01_AllocateArray.exe
+H:\Telerik\C# Advanced\HW01-Arrays\P01-AllocateArray\bin\Debug\P01_AllocateArray.pdb
+H:\Telerik\C# Advanced\HW01-Arrays\P01-AllocateArray\obj\Debug\P01-AllocateArray.csprojResolveAssemblyReference.cache
+H:\TelerikWork\C# Advanced\HW01-Arrays\P01-AllocateArray\bin\Debug\P01_AllocateArray.exe.config
+H:\TelerikWork\C# Advanced\HW01-Arrays\P01-AllocateArray\obj\Debug\P01_AllocateArray.exe
+H:\TelerikWork\C# Advanced\HW01-Arrays\P01-AllocateArray\obj\Debug\P01_AllocateArray.pdb

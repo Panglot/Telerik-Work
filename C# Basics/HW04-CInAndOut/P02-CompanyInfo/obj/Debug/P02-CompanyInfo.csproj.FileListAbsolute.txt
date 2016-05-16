@@ -1,0 +1,5 @@
+D:\Telerik\C# Basics\HW04-CInAndOut\P02-CompanyInfo\bin\Debug\P02-CompanyInfo.exe.config
+D:\Telerik\C# Basics\HW04-CInAndOut\P02-CompanyInfo\bin\Debug\P02-CompanyInfo.exe
+D:\Telerik\C# Basics\HW04-CInAndOut\P02-CompanyInfo\bin\Debug\P02-CompanyInfo.pdb
+D:\Telerik\C# Basics\HW04-CInAndOut\P02-CompanyInfo\obj\Debug\P02-CompanyInfo.exe
+D:\Telerik\C# Basics\HW04-CInAndOut\P02-CompanyInfo\obj\Debug\P02-CompanyInfo.pdb

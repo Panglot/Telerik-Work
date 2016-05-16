@@ -1,0 +1,9 @@
+H:\Telerik\C# Basics\HW05-ConditionalStatements\P01-ExchangeIfGreater\bin\Debug\P01-ExchangeIfGreater.exe.config
+H:\Telerik\C# Basics\HW05-ConditionalStatements\P01-ExchangeIfGreater\bin\Debug\P01-ExchangeIfGreater.exe
+H:\Telerik\C# Basics\HW05-ConditionalStatements\P01-ExchangeIfGreater\bin\Debug\P01-ExchangeIfGreater.pdb
+H:\Telerik\C# Basics\HW05-ConditionalStatements\P01-ExchangeIfGreater\obj\Debug\P01-ExchangeIfGreater.csprojResolveAssemblyReference.cache
+H:\Telerik\C# Basics\HW05-ConditionalStatements\P01-ExchangeIfGreater\obj\Debug\P01-ExchangeIfGreater.exe
+H:\Telerik\C# Basics\HW05-ConditionalStatements\P01-ExchangeIfGreater\obj\Debug\P01-ExchangeIfGreater.pdb
+D:\Telerik\C# Basics\HW05-ConditionalStatements\P01-ExchangeIfGreater\bin\Debug\P01-ExchangeIfGreater.exe.config
+D:\Telerik\C# Basics\HW05-ConditionalStatements\P01-ExchangeIfGreater\obj\Debug\P01-ExchangeIfGreater.exe
+D:\Telerik\C# Basics\HW05-ConditionalStatements\P01-ExchangeIfGreater\obj\Debug\P01-ExchangeIfGreater.pdb

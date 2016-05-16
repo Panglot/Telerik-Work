@@ -1,0 +1,6 @@
+D:\Telerik\C# Basics\HW06-Loops\P10-OddOrEvenProduct\bin\Debug\P10-OddOrEvenProduct.exe.config
+D:\Telerik\C# Basics\HW06-Loops\P10-OddOrEvenProduct\bin\Debug\P10-OddOrEvenProduct.exe
+D:\Telerik\C# Basics\HW06-Loops\P10-OddOrEvenProduct\bin\Debug\P10-OddOrEvenProduct.pdb
+D:\Telerik\C# Basics\HW06-Loops\P10-OddOrEvenProduct\obj\Debug\P10-OddOrEvenProduct.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Basics\HW06-Loops\P10-OddOrEvenProduct\obj\Debug\P10-OddOrEvenProduct.exe
+D:\Telerik\C# Basics\HW06-Loops\P10-OddOrEvenProduct\obj\Debug\P10-OddOrEvenProduct.pdb

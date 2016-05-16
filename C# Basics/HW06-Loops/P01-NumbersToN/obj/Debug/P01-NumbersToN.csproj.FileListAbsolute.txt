@@ -1,0 +1,8 @@
+D:\Telerik\C# Basics\HW06-Loops\P01-NumbersToN\bin\Debug\P01-NumbersToN.exe.config
+D:\Telerik\C# Basics\HW06-Loops\P01-NumbersToN\bin\Debug\P01-NumbersToN.exe
+D:\Telerik\C# Basics\HW06-Loops\P01-NumbersToN\bin\Debug\P01-NumbersToN.pdb
+D:\Telerik\C# Basics\HW06-Loops\P01-NumbersToN\obj\Debug\P01-NumbersToN.exe
+D:\Telerik\C# Basics\HW06-Loops\P01-NumbersToN\obj\Debug\P01-NumbersToN.pdb
+H:\Telerik\C# Basics\HW06-Loops\P01-NumbersToN\bin\Debug\P01-NumbersToN.exe.config
+H:\Telerik\C# Basics\HW06-Loops\P01-NumbersToN\obj\Debug\P01-NumbersToN.exe
+H:\Telerik\C# Basics\HW06-Loops\P01-NumbersToN\obj\Debug\P01-NumbersToN.pdb

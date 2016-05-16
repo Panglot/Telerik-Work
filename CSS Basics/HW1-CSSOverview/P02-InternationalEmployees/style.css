@@ -1,0 +1,27 @@
+th{
+  background-color: #54B706;
+  color: white;
+  font-weight: normal;
+  border-bottom: 2px #bbbbbb;
+  border-bottom-style: ridge;
+}
+th:not(:last-child), td:not(:last-child){
+    border-right: 2px #bbbbbb;
+    border-right-style: ridge;
+}
+td,th{
+    padding: 3px 30px 3px 10px;
+}
+table{
+  border-collapse: collapse;
+  font-size: 0.9em;
+  text-align: left;
+  border-bottom: 2px #bbbbbb;
+  border-bottom-style: ridge;
+}
+.darker{
+  background-color: #ECECD8;
+}
+img{
+  vertical-align: middle;
+}

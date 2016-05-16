@@ -1,0 +1,6 @@
+D:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P11-ThirdBit\bin\Debug\P11-ThirdBit.exe.config
+D:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P11-ThirdBit\bin\Debug\P11-ThirdBit.exe
+D:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P11-ThirdBit\bin\Debug\P11-ThirdBit.pdb
+D:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P11-ThirdBit\obj\Debug\P11-ThirdBit.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P11-ThirdBit\obj\Debug\P11-ThirdBit.exe
+D:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P11-ThirdBit\obj\Debug\P11-ThirdBit.pdb

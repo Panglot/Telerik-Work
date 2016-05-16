@@ -1,0 +1,5 @@
+D:\Telerik\C# Basics\HW06-Loops\P11-BinaryToDecimal\bin\Debug\P11-BinaryToDecimal.exe.config
+D:\Telerik\C# Basics\HW06-Loops\P11-BinaryToDecimal\bin\Debug\P11-BinaryToDecimal.exe
+D:\Telerik\C# Basics\HW06-Loops\P11-BinaryToDecimal\bin\Debug\P11-BinaryToDecimal.pdb
+D:\Telerik\C# Basics\HW06-Loops\P11-BinaryToDecimal\obj\Debug\P11-BinaryToDecimal.exe
+D:\Telerik\C# Basics\HW06-Loops\P11-BinaryToDecimal\obj\Debug\P11-BinaryToDecimal.pdb

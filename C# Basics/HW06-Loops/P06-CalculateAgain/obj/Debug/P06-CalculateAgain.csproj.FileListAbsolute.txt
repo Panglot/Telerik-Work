@@ -1,0 +1,6 @@
+D:\Telerik\C# Basics\HW06-Loops\P06-CalculateAgain\bin\Debug\P06-CalculateAgain.exe.config
+D:\Telerik\C# Basics\HW06-Loops\P06-CalculateAgain\bin\Debug\P06-CalculateAgain.exe
+D:\Telerik\C# Basics\HW06-Loops\P06-CalculateAgain\bin\Debug\P06-CalculateAgain.pdb
+D:\Telerik\C# Basics\HW06-Loops\P06-CalculateAgain\obj\Debug\P06-CalculateAgain.exe
+D:\Telerik\C# Basics\HW06-Loops\P06-CalculateAgain\obj\Debug\P06-CalculateAgain.pdb
+D:\Telerik\C# Basics\HW06-Loops\P06-CalculateAgain\obj\Debug\P06-CalculateAgain.csprojResolveAssemblyReference.cache

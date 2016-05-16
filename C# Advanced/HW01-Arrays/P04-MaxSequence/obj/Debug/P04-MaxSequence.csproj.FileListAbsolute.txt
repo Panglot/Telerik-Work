@@ -1,0 +1,5 @@
+D:\Telerik\C# Advanced\HW01-Arrays\P04-MaxSequence\bin\Debug\P04-MaxSequence.exe.config
+D:\Telerik\C# Advanced\HW01-Arrays\P04-MaxSequence\bin\Debug\P04-MaxSequence.exe
+D:\Telerik\C# Advanced\HW01-Arrays\P04-MaxSequence\bin\Debug\P04-MaxSequence.pdb
+D:\Telerik\C# Advanced\HW01-Arrays\P04-MaxSequence\obj\Debug\P04-MaxSequence.exe
+D:\Telerik\C# Advanced\HW01-Arrays\P04-MaxSequence\obj\Debug\P04-MaxSequence.pdb

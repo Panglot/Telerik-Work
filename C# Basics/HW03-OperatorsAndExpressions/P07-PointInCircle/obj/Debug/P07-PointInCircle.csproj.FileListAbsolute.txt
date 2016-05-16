@@ -1,0 +1,5 @@
+D:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P07-PointInCircle\bin\Debug\P07-PointInCircle.exe.config
+D:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P07-PointInCircle\bin\Debug\P07-PointInCircle.exe
+D:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P07-PointInCircle\bin\Debug\P07-PointInCircle.pdb
+D:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P07-PointInCircle\obj\Debug\P07-PointInCircle.exe
+D:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P07-PointInCircle\obj\Debug\P07-PointInCircle.pdb

@@ -1,0 +1,42 @@
+body{
+  background-color: #595959;
+    font-family: calibri;
+}
+h1{
+  font-size: 1.2em;
+  color: #BBBBBB;
+  font-weight: normal;
+}
+.dot{
+  background: #71B47A;
+  border-radius: 50%;
+  width: 13px;
+  height: 13px;
+  display: inline-block;
+}
+td{
+  padding-bottom: 7px;
+  padding-right: 7px;
+}
+table{
+  font-size: 0.9em;
+}
+.italic{
+  color: white;
+  font-style: italic;
+}
+
+.yellow-text{
+  color: #edd58b;
+}
+.red-text{
+  color: red;
+  font-weight: bold;
+}
+.grey-text{
+  color: #BBBBBB;
+}
+.orange-text{
+  color: #E36C26;
+  font-weight: bold;
+}

@@ -1,0 +1,5 @@
+D:\Telerik\C# Basics\HW06-Loops\P15-GCD\bin\Debug\P15-GCD.exe.config
+D:\Telerik\C# Basics\HW06-Loops\P15-GCD\bin\Debug\P15-GCD.exe
+D:\Telerik\C# Basics\HW06-Loops\P15-GCD\bin\Debug\P15-GCD.pdb
+D:\Telerik\C# Basics\HW06-Loops\P15-GCD\obj\Debug\P15-GCD.exe
+D:\Telerik\C# Basics\HW06-Loops\P15-GCD\obj\Debug\P15-GCD.pdb

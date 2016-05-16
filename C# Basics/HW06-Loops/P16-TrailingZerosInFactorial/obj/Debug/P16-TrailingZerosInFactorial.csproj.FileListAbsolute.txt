@@ -1,0 +1,6 @@
+D:\Telerik\C# Basics\HW06-Loops\P16-TrailingZerosInFactorial\bin\Debug\P16-TrailingZerosInFactorial.exe.config
+D:\Telerik\C# Basics\HW06-Loops\P16-TrailingZerosInFactorial\bin\Debug\P16-TrailingZerosInFactorial.exe
+D:\Telerik\C# Basics\HW06-Loops\P16-TrailingZerosInFactorial\bin\Debug\P16-TrailingZerosInFactorial.pdb
+D:\Telerik\C# Basics\HW06-Loops\P16-TrailingZerosInFactorial\obj\Debug\P16-TrailingZerosInFactorial.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Basics\HW06-Loops\P16-TrailingZerosInFactorial\obj\Debug\P16-TrailingZerosInFactorial.exe
+D:\Telerik\C# Basics\HW06-Loops\P16-TrailingZerosInFactorial\obj\Debug\P16-TrailingZerosInFactorial.pdb

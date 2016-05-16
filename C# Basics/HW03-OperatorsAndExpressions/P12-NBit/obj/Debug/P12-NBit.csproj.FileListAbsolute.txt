@@ -1,0 +1,5 @@
+D:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P12-NBit\bin\Debug\P12-NBit.exe.config
+D:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P12-NBit\bin\Debug\P12-NBit.exe
+D:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P12-NBit\bin\Debug\P12-NBit.pdb
+D:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P12-NBit\obj\Debug\P12-NBit.exe
+D:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P12-NBit\obj\Debug\P12-NBit.pdb

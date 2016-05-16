@@ -1,0 +1,5 @@
+D:\Telerik\C# Basics\HW02-Variables\P02-FloatOrDouble\bin\Debug\P02-FloatOrDouble.exe.config
+D:\Telerik\C# Basics\HW02-Variables\P02-FloatOrDouble\bin\Debug\P02-FloatOrDouble.exe
+D:\Telerik\C# Basics\HW02-Variables\P02-FloatOrDouble\bin\Debug\P02-FloatOrDouble.pdb
+D:\Telerik\C# Basics\HW02-Variables\P02-FloatOrDouble\obj\Debug\P02-FloatOrDouble.exe
+D:\Telerik\C# Basics\HW02-Variables\P02-FloatOrDouble\obj\Debug\P02-FloatOrDouble.pdb

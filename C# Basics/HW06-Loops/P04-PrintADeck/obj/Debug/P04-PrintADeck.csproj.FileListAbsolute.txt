@@ -1,0 +1,6 @@
+D:\Telerik\C# Basics\HW06-Loops\P04-PrintADeck\bin\Debug\P04-PrintADeck.exe.config
+D:\Telerik\C# Basics\HW06-Loops\P04-PrintADeck\bin\Debug\P04-PrintADeck.exe
+D:\Telerik\C# Basics\HW06-Loops\P04-PrintADeck\bin\Debug\P04-PrintADeck.pdb
+D:\Telerik\C# Basics\HW06-Loops\P04-PrintADeck\obj\Debug\P04-PrintADeck.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Basics\HW06-Loops\P04-PrintADeck\obj\Debug\P04-PrintADeck.exe
+D:\Telerik\C# Basics\HW06-Loops\P04-PrintADeck\obj\Debug\P04-PrintADeck.pdb

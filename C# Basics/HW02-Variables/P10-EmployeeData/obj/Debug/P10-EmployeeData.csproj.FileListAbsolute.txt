@@ -1,0 +1,11 @@
+D:\Telerik\C# Basics\HW02-Variables\P10-EmployeeData\bin\Debug\P10-EmployeeData.exe.config
+D:\Telerik\C# Basics\HW02-Variables\P10-EmployeeData\bin\Debug\P10-EmployeeData.exe
+D:\Telerik\C# Basics\HW02-Variables\P10-EmployeeData\bin\Debug\P10-EmployeeData.pdb
+D:\Telerik\C# Basics\HW02-Variables\P10-EmployeeData\obj\Debug\P10-EmployeeData.exe
+D:\Telerik\C# Basics\HW02-Variables\P10-EmployeeData\obj\Debug\P10-EmployeeData.pdb
+H:\Telerik\C# Basics\HW02-Variables\P10-EmployeeData\bin\Debug\P10-EmployeeData.exe.config
+H:\Telerik\C# Basics\HW02-Variables\P10-EmployeeData\obj\Debug\P10-EmployeeData.exe
+H:\Telerik\C# Basics\HW02-Variables\P10-EmployeeData\obj\Debug\P10-EmployeeData.pdb
+H:\Telerik\C# Basics\HW02-Variables\P10-EmployeeData\bin\Debug\P10-EmployeeData.exe
+H:\Telerik\C# Basics\HW02-Variables\P10-EmployeeData\bin\Debug\P10-EmployeeData.pdb
+H:\Telerik\C# Basics\HW02-Variables\P10-EmployeeData\obj\Debug\P10-EmployeeData.csprojResolveAssemblyReference.cache

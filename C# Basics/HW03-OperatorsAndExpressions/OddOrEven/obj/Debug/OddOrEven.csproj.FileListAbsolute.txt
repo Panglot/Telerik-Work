@@ -1,0 +1,8 @@
+H:\Telerik\C# Basics\HW03-OperatorsAndExpressions\OddOrEven\bin\Debug\OddOrEven.exe.config
+H:\Telerik\C# Basics\HW03-OperatorsAndExpressions\OddOrEven\bin\Debug\OddOrEven.exe
+H:\Telerik\C# Basics\HW03-OperatorsAndExpressions\OddOrEven\bin\Debug\OddOrEven.pdb
+H:\Telerik\C# Basics\HW03-OperatorsAndExpressions\OddOrEven\obj\Debug\OddOrEven.exe
+H:\Telerik\C# Basics\HW03-OperatorsAndExpressions\OddOrEven\obj\Debug\OddOrEven.pdb
+D:\Telerik\C# Basics\HW03-OperatorsAndExpressions\OddOrEven\bin\Debug\OddOrEven.exe.config
+D:\Telerik\C# Basics\HW03-OperatorsAndExpressions\OddOrEven\obj\Debug\OddOrEven.exe
+D:\Telerik\C# Basics\HW03-OperatorsAndExpressions\OddOrEven\obj\Debug\OddOrEven.pdb

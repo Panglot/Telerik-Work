@@ -1,0 +1,6 @@
+H:\Telerik\C# Basics\HW02-Variables\P12-CompareFloats\bin\Debug\P12-CompareFloats.exe.config
+H:\Telerik\C# Basics\HW02-Variables\P12-CompareFloats\bin\Debug\P12-CompareFloats.exe
+H:\Telerik\C# Basics\HW02-Variables\P12-CompareFloats\bin\Debug\P12-CompareFloats.pdb
+H:\Telerik\C# Basics\HW02-Variables\P12-CompareFloats\obj\Debug\P12-CompareFloats.csprojResolveAssemblyReference.cache
+H:\Telerik\C# Basics\HW02-Variables\P12-CompareFloats\obj\Debug\P12-CompareFloats.exe
+H:\Telerik\C# Basics\HW02-Variables\P12-CompareFloats\obj\Debug\P12-CompareFloats.pdb

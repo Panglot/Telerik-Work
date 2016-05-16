@@ -1,0 +1,5 @@
+D:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P15-BitSwap\bin\Debug\P15-BitSwap.exe.config
+D:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P15-BitSwap\bin\Debug\P15-BitSwap.exe
+D:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P15-BitSwap\bin\Debug\P15-BitSwap.pdb
+D:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P15-BitSwap\obj\Debug\P15-BitSwap.exe
+D:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P15-BitSwap\obj\Debug\P15-BitSwap.pdb

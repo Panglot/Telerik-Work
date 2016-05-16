@@ -1,0 +1,9 @@
+C:\Dobri\Telerik\C# Basics\Exam\P02-Speeds\bin\Debug\P02-Speeds.exe.config
+C:\Dobri\Telerik\C# Basics\Exam\P02-Speeds\bin\Debug\P02-Speeds.exe
+C:\Dobri\Telerik\C# Basics\Exam\P02-Speeds\bin\Debug\P02-Speeds.pdb
+C:\Dobri\Telerik\C# Basics\Exam\P02-Speeds\obj\Debug\P02-Speeds.csprojResolveAssemblyReference.cache
+C:\Dobri\Telerik\C# Basics\Exam\P02-Speeds\obj\Debug\P02-Speeds.exe
+C:\Dobri\Telerik\C# Basics\Exam\P02-Speeds\obj\Debug\P02-Speeds.pdb
+F:\Telerik\C# Basics\Exam\P02-Speeds\bin\Debug\P02-Speeds.exe.config
+F:\Telerik\C# Basics\Exam\P02-Speeds\obj\Debug\P02-Speeds.exe
+F:\Telerik\C# Basics\Exam\P02-Speeds\obj\Debug\P02-Speeds.pdb

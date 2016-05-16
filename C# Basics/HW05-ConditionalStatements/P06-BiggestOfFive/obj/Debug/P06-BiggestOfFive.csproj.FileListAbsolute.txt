@@ -1,0 +1,8 @@
+H:\Telerik\C# Basics\HW05-ConditionalStatements\P06-BiggestOfFive\bin\Debug\P05-BiggestOfFive.exe.config
+H:\Telerik\C# Basics\HW05-ConditionalStatements\P06-BiggestOfFive\bin\Debug\P05-BiggestOfFive.exe
+H:\Telerik\C# Basics\HW05-ConditionalStatements\P06-BiggestOfFive\bin\Debug\P05-BiggestOfFive.pdb
+H:\Telerik\C# Basics\HW05-ConditionalStatements\P06-BiggestOfFive\obj\Debug\P05-BiggestOfFive.exe
+H:\Telerik\C# Basics\HW05-ConditionalStatements\P06-BiggestOfFive\obj\Debug\P05-BiggestOfFive.pdb
+D:\Telerik\C# Basics\HW05-ConditionalStatements\P06-BiggestOfFive\bin\Debug\P05-BiggestOfFive.exe.config
+D:\Telerik\C# Basics\HW05-ConditionalStatements\P06-BiggestOfFive\obj\Debug\P05-BiggestOfFive.exe
+D:\Telerik\C# Basics\HW05-ConditionalStatements\P06-BiggestOfFive\obj\Debug\P05-BiggestOfFive.pdb

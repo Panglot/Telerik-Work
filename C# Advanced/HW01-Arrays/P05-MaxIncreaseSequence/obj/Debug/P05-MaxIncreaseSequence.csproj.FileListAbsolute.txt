@@ -1,0 +1,8 @@
+D:\Telerik\C# Advanced\HW01-Arrays\P05-MaxIncreaseSequence\bin\Debug\P05-MaxIncreaseSequence.exe.config
+D:\Telerik\C# Advanced\HW01-Arrays\P05-MaxIncreaseSequence\bin\Debug\P05-MaxIncreaseSequence.exe
+D:\Telerik\C# Advanced\HW01-Arrays\P05-MaxIncreaseSequence\bin\Debug\P05-MaxIncreaseSequence.pdb
+D:\Telerik\C# Advanced\HW01-Arrays\P05-MaxIncreaseSequence\obj\Debug\P05-MaxIncreaseSequence.exe
+D:\Telerik\C# Advanced\HW01-Arrays\P05-MaxIncreaseSequence\obj\Debug\P05-MaxIncreaseSequence.pdb
+H:\Telerik\C# Advanced\HW01-Arrays\P05-MaxIncreaseSequence\bin\Debug\P05-MaxIncreaseSequence.exe.config
+H:\Telerik\C# Advanced\HW01-Arrays\P05-MaxIncreaseSequence\obj\Debug\P05-MaxIncreaseSequence.exe
+H:\Telerik\C# Advanced\HW01-Arrays\P05-MaxIncreaseSequence\obj\Debug\P05-MaxIncreaseSequence.pdb

@@ -1,0 +1,5 @@
+D:\Telerik\C# Basics\HW02-Variables\P06-StringsAndObjects\bin\Debug\P06-StringsAndObjects.exe.config
+D:\Telerik\C# Basics\HW02-Variables\P06-StringsAndObjects\bin\Debug\P06-StringsAndObjects.exe
+D:\Telerik\C# Basics\HW02-Variables\P06-StringsAndObjects\bin\Debug\P06-StringsAndObjects.pdb
+D:\Telerik\C# Basics\HW02-Variables\P06-StringsAndObjects\obj\Debug\P06-StringsAndObjects.exe
+D:\Telerik\C# Basics\HW02-Variables\P06-StringsAndObjects\obj\Debug\P06-StringsAndObjects.pdb

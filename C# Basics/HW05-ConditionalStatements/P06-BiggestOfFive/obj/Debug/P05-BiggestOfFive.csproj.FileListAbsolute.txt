@@ -1,0 +1,1 @@
+H:\Telerik\C# Basics\HW05-ConditionalStatements\P05-BiggestOfFive\bin\Debug\P05-BiggestOfFive.exe.config

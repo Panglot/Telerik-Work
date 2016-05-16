@@ -1,0 +1,5 @@
+H:\Telerik\C# Basics\HW01-ProgrammingIntro\P08-Squareroot\bin\Debug\P08-Squareroot.exe.config
+H:\Telerik\C# Basics\HW01-ProgrammingIntro\P08-Squareroot\bin\Debug\P08-Squareroot.exe
+H:\Telerik\C# Basics\HW01-ProgrammingIntro\P08-Squareroot\bin\Debug\P08-Squareroot.pdb
+H:\Telerik\C# Basics\HW01-ProgrammingIntro\P08-Squareroot\obj\Debug\P08-Squareroot.exe
+H:\Telerik\C# Basics\HW01-ProgrammingIntro\P08-Squareroot\obj\Debug\P08-Squareroot.pdb

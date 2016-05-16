@@ -1,0 +1,5 @@
+H:\Telerik\C# Basics\HW01-ProgrammingIntro\P09-PrintSequence\bin\Debug\P09-PrintSequence.exe.config
+H:\Telerik\C# Basics\HW01-ProgrammingIntro\P09-PrintSequence\bin\Debug\P09-PrintSequence.exe
+H:\Telerik\C# Basics\HW01-ProgrammingIntro\P09-PrintSequence\bin\Debug\P09-PrintSequence.pdb
+H:\Telerik\C# Basics\HW01-ProgrammingIntro\P09-PrintSequence\obj\Debug\P09-PrintSequence.exe
+H:\Telerik\C# Basics\HW01-ProgrammingIntro\P09-PrintSequence\obj\Debug\P09-PrintSequence.pdb

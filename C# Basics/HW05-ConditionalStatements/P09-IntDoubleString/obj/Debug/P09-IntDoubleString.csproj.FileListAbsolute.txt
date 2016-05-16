@@ -1,0 +1,5 @@
+D:\Telerik\C# Basics\HW05-ConditionalStatements\P09-IntDoubleString\bin\Debug\P09-IntDoubleString.exe.config
+D:\Telerik\C# Basics\HW05-ConditionalStatements\P09-IntDoubleString\bin\Debug\P09-IntDoubleString.exe
+D:\Telerik\C# Basics\HW05-ConditionalStatements\P09-IntDoubleString\bin\Debug\P09-IntDoubleString.pdb
+D:\Telerik\C# Basics\HW05-ConditionalStatements\P09-IntDoubleString\obj\Debug\P09-IntDoubleString.exe
+D:\Telerik\C# Basics\HW05-ConditionalStatements\P09-IntDoubleString\obj\Debug\P09-IntDoubleString.pdb

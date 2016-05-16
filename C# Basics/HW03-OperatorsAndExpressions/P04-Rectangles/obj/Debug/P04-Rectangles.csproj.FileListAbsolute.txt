@@ -1,0 +1,5 @@
+D:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P04-Rectangles\bin\Debug\P04-Rectangles.exe.config
+D:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P04-Rectangles\bin\Debug\P04-Rectangles.exe
+D:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P04-Rectangles\bin\Debug\P04-Rectangles.pdb
+D:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P04-Rectangles\obj\Debug\P04-Rectangles.exe
+D:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P04-Rectangles\obj\Debug\P04-Rectangles.pdb

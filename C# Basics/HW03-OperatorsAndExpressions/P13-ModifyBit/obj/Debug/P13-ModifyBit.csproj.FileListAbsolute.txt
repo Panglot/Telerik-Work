@@ -1,0 +1,5 @@
+D:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P13-ModifyBit\bin\Debug\P13-ModifyBit.exe.config
+D:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P13-ModifyBit\bin\Debug\P13-ModifyBit.exe
+D:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P13-ModifyBit\bin\Debug\P13-ModifyBit.pdb
+D:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P13-ModifyBit\obj\Debug\P13-ModifyBit.exe
+D:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P13-ModifyBit\obj\Debug\P13-ModifyBit.pdb

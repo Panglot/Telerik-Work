@@ -1,0 +1,5 @@
+D:\Telerik\C# Basics\HW06-Loops\P08-CatalanNumbers\bin\Debug\P08-CatalanNumbers.exe.config
+D:\Telerik\C# Basics\HW06-Loops\P08-CatalanNumbers\bin\Debug\P08-CatalanNumbers.exe
+D:\Telerik\C# Basics\HW06-Loops\P08-CatalanNumbers\bin\Debug\P08-CatalanNumbers.pdb
+D:\Telerik\C# Basics\HW06-Loops\P08-CatalanNumbers\obj\Debug\P08-CatalanNumbers.exe
+D:\Telerik\C# Basics\HW06-Loops\P08-CatalanNumbers\obj\Debug\P08-CatalanNumbers.pdb

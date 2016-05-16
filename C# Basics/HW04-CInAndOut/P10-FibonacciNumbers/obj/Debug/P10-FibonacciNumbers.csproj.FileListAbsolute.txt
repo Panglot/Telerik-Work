@@ -1,0 +1,5 @@
+D:\Telerik\C# Basics\HW04-CInAndOut\P10-FibonacciNumbers\bin\Debug\P10-FibonacciNumbers.exe.config
+D:\Telerik\C# Basics\HW04-CInAndOut\P10-FibonacciNumbers\bin\Debug\P10-FibonacciNumbers.exe
+D:\Telerik\C# Basics\HW04-CInAndOut\P10-FibonacciNumbers\bin\Debug\P10-FibonacciNumbers.pdb
+D:\Telerik\C# Basics\HW04-CInAndOut\P10-FibonacciNumbers\obj\Debug\P10-FibonacciNumbers.exe
+D:\Telerik\C# Basics\HW04-CInAndOut\P10-FibonacciNumbers\obj\Debug\P10-FibonacciNumbers.pdb

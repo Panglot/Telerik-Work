@@ -1,0 +1,6 @@
+H:\Telerik\C# Basics\HW01-ProgrammingIntro\P04-HelloWorld\bin\Debug\P04-HelloWorld.exe.config
+H:\Telerik\C# Basics\HW01-ProgrammingIntro\P04-HelloWorld\bin\Debug\P04-HelloWorld.exe
+H:\Telerik\C# Basics\HW01-ProgrammingIntro\P04-HelloWorld\bin\Debug\P04-HelloWorld.pdb
+H:\Telerik\C# Basics\HW01-ProgrammingIntro\P04-HelloWorld\obj\Debug\P04-HelloWorld.csprojResolveAssemblyReference.cache
+H:\Telerik\C# Basics\HW01-ProgrammingIntro\P04-HelloWorld\obj\Debug\P04-HelloWorld.exe
+H:\Telerik\C# Basics\HW01-ProgrammingIntro\P04-HelloWorld\obj\Debug\P04-HelloWorld.pdb

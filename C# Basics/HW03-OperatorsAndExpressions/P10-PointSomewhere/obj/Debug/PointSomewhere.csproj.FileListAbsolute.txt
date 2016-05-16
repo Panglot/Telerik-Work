@@ -1,0 +1,9 @@
+H:\Telerik\C# Basics\HW03-OperatorsAndExpressions\PointSomewhere\bin\Debug\PointSomewhere.exe.config
+H:\Telerik\C# Basics\HW03-OperatorsAndExpressions\PointSomewhere\bin\Debug\PointSomewhere.exe
+H:\Telerik\C# Basics\HW03-OperatorsAndExpressions\PointSomewhere\bin\Debug\PointSomewhere.pdb
+H:\Telerik\C# Basics\HW03-OperatorsAndExpressions\PointSomewhere\obj\Debug\PointSomewhere.csprojResolveAssemblyReference.cache
+H:\Telerik\C# Basics\HW03-OperatorsAndExpressions\PointSomewhere\obj\Debug\PointSomewhere.exe
+H:\Telerik\C# Basics\HW03-OperatorsAndExpressions\PointSomewhere\obj\Debug\PointSomewhere.pdb
+D:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P10-PointSomewhere\bin\Debug\PointSomewhere.exe.config
+D:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P10-PointSomewhere\obj\Debug\PointSomewhere.exe
+D:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P10-PointSomewhere\obj\Debug\PointSomewhere.pdb

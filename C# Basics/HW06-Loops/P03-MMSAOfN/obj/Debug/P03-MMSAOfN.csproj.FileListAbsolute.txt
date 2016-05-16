@@ -1,0 +1,3 @@
+D:\Telerik\C# Basics\HW06-Loops\P03-MMSAOfN\bin\Debug\P06-MMSAOfN.exe.config
+D:\Telerik\C# Basics\HW06-Loops\P03-MMSAOfN\obj\Debug\P06-MMSAOfN.exe
+D:\Telerik\C# Basics\HW06-Loops\P03-MMSAOfN\obj\Debug\P06-MMSAOfN.pdb

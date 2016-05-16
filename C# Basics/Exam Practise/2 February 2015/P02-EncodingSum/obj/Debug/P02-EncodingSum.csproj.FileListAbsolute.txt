@@ -1,0 +1,6 @@
+H:\Telerik\C# Basics\Exam Practise\2 February 2015\P02-EncodingSum\bin\Debug\P02-EncodingSum.exe.config
+H:\Telerik\C# Basics\Exam Practise\2 February 2015\P02-EncodingSum\bin\Debug\P02-EncodingSum.exe
+H:\Telerik\C# Basics\Exam Practise\2 February 2015\P02-EncodingSum\bin\Debug\P02-EncodingSum.pdb
+H:\Telerik\C# Basics\Exam Practise\2 February 2015\P02-EncodingSum\obj\Debug\P02-EncodingSum.csprojResolveAssemblyReference.cache
+H:\Telerik\C# Basics\Exam Practise\2 February 2015\P02-EncodingSum\obj\Debug\P02-EncodingSum.exe
+H:\Telerik\C# Basics\Exam Practise\2 February 2015\P02-EncodingSum\obj\Debug\P02-EncodingSum.pdb

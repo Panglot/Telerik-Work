@@ -1,0 +1,9 @@
+C:\Dobri\Telerik\C# Basics\Exam\P05-Conductors\bin\Debug\P05-Conductors.exe.config
+C:\Dobri\Telerik\C# Basics\Exam\P05-Conductors\bin\Debug\P05-Conductors.exe
+C:\Dobri\Telerik\C# Basics\Exam\P05-Conductors\bin\Debug\P05-Conductors.pdb
+C:\Dobri\Telerik\C# Basics\Exam\P05-Conductors\obj\Debug\P05-Conductors.csprojResolveAssemblyReference.cache
+C:\Dobri\Telerik\C# Basics\Exam\P05-Conductors\obj\Debug\P05-Conductors.exe
+C:\Dobri\Telerik\C# Basics\Exam\P05-Conductors\obj\Debug\P05-Conductors.pdb
+F:\Telerik\C# Basics\Exam\P05-Conductors\bin\Debug\P05-Conductors.exe.config
+F:\Telerik\C# Basics\Exam\P05-Conductors\obj\Debug\P05-Conductors.exe
+F:\Telerik\C# Basics\Exam\P05-Conductors\obj\Debug\P05-Conductors.pdb

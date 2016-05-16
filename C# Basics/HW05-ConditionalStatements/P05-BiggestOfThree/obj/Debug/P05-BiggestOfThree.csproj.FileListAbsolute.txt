@@ -1,0 +1,5 @@
+H:\Telerik\C# Basics\HW05-ConditionalStatements\P05-BiggestOfThree\bin\Debug\P05-BiggestOfThree.exe.config
+H:\Telerik\C# Basics\HW05-ConditionalStatements\P05-BiggestOfThree\bin\Debug\P05-BiggestOfThree.exe
+H:\Telerik\C# Basics\HW05-ConditionalStatements\P05-BiggestOfThree\bin\Debug\P05-BiggestOfThree.pdb
+H:\Telerik\C# Basics\HW05-ConditionalStatements\P05-BiggestOfThree\obj\Debug\P05-BiggestOfThree.exe
+H:\Telerik\C# Basics\HW05-ConditionalStatements\P05-BiggestOfThree\obj\Debug\P05-BiggestOfThree.pdb

@@ -1,0 +1,8 @@
+
+	C# and .NET Framework
+
+	.NET is mainly known as library but it is also runtime for executing applications.
+	C# implies some knowledge from .NET, as their object models correspond. C sharp however
+	is not the only language you can write, .NET applications, with. The implementation of C#
+	from microsoft is heavily integrated with the .NET Framework and it is understandable
+	the two concepts can be mistaken, but they are completely different.

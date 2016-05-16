@@ -1,0 +1,5 @@
+H:\Telerik\C# Basics\HW01-ProgrammingIntro\P15-LongSequence\bin\Debug\P15-LongSequence.exe.config
+H:\Telerik\C# Basics\HW01-ProgrammingIntro\P15-LongSequence\bin\Debug\P15-LongSequence.exe
+H:\Telerik\C# Basics\HW01-ProgrammingIntro\P15-LongSequence\bin\Debug\P15-LongSequence.pdb
+H:\Telerik\C# Basics\HW01-ProgrammingIntro\P15-LongSequence\obj\Debug\P15-LongSequence.exe
+H:\Telerik\C# Basics\HW01-ProgrammingIntro\P15-LongSequence\obj\Debug\P15-LongSequence.pdb

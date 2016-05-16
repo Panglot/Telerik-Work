@@ -1,0 +1,6 @@
+H:\Telerik\C# Basics\Exam Practise\2 February 2015\P03-Maslan\bin\Debug\P03-Maslan.exe.config
+H:\Telerik\C# Basics\Exam Practise\2 February 2015\P03-Maslan\bin\Debug\P03-Maslan.exe
+H:\Telerik\C# Basics\Exam Practise\2 February 2015\P03-Maslan\bin\Debug\P03-Maslan.pdb
+H:\Telerik\C# Basics\Exam Practise\2 February 2015\P03-Maslan\obj\Debug\P03-Maslan.csprojResolveAssemblyReference.cache
+H:\Telerik\C# Basics\Exam Practise\2 February 2015\P03-Maslan\obj\Debug\P03-Maslan.exe
+H:\Telerik\C# Basics\Exam Practise\2 February 2015\P03-Maslan\obj\Debug\P03-Maslan.pdb

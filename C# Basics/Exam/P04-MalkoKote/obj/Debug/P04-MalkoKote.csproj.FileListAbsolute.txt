@@ -1,0 +1,8 @@
+C:\Dobri\Telerik\C# Basics\Exam\P04-MalkoKote\bin\Debug\P04-MalkoKote.exe.config
+C:\Dobri\Telerik\C# Basics\Exam\P04-MalkoKote\bin\Debug\P04-MalkoKote.exe
+C:\Dobri\Telerik\C# Basics\Exam\P04-MalkoKote\bin\Debug\P04-MalkoKote.pdb
+C:\Dobri\Telerik\C# Basics\Exam\P04-MalkoKote\obj\Debug\P04-MalkoKote.exe
+C:\Dobri\Telerik\C# Basics\Exam\P04-MalkoKote\obj\Debug\P04-MalkoKote.pdb
+F:\Telerik\C# Basics\Exam\P04-MalkoKote\bin\Debug\P04-MalkoKote.exe.config
+F:\Telerik\C# Basics\Exam\P04-MalkoKote\obj\Debug\P04-MalkoKote.exe
+F:\Telerik\C# Basics\Exam\P04-MalkoKote\obj\Debug\P04-MalkoKote.pdb

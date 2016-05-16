@@ -1,0 +1,41 @@
+body{
+  background-color: #A9A9A9;
+}
+h1, h2{
+  color: #FAFAD2;
+}
+
+h1, ul{
+  text-align: center;
+}
+ul{
+  list-style-type: none;
+  font-size: 1.3em;
+  font-weight: bold;
+}
+a{
+  color: white;
+}
+
+.no-decoration-nav{
+  text-decoration: none;
+}
+.background-nav{
+  background-color: #D3D3D3;
+  text-decoration: none;
+}
+
+article>footer{
+  font-size: 0.85em;
+}
+.undecorate{
+  text-decoration: none;
+  color: black;
+}
+
+body>footer{
+  margin-top: 100px;
+  text-align: center;
+  font-size: 1.1em;
+  font-weight: bold;
+}

@@ -1,0 +1,6 @@
+D:\Telerik\C# Advanced\HW2-MultiArrays\P01-FillTheMatrix\bin\Debug\P01-FillTheMatrix.exe.config
+D:\Telerik\C# Advanced\HW2-MultiArrays\P01-FillTheMatrix\bin\Debug\P01-FillTheMatrix.exe
+D:\Telerik\C# Advanced\HW2-MultiArrays\P01-FillTheMatrix\bin\Debug\P01-FillTheMatrix.pdb
+D:\Telerik\C# Advanced\HW2-MultiArrays\P01-FillTheMatrix\obj\Debug\P01-FillTheMatrix.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Advanced\HW2-MultiArrays\P01-FillTheMatrix\obj\Debug\P01-FillTheMatrix.exe
+D:\Telerik\C# Advanced\HW2-MultiArrays\P01-FillTheMatrix\obj\Debug\P01-FillTheMatrix.pdb

@@ -1,0 +1,6 @@
+D:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P08-PrimeCheck\bin\Debug\P08-PrimeCheck.exe.config
+D:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P08-PrimeCheck\bin\Debug\P08-PrimeCheck.exe
+D:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P08-PrimeCheck\bin\Debug\P08-PrimeCheck.pdb
+D:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P08-PrimeCheck\obj\Debug\P08-PrimeCheck.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P08-PrimeCheck\obj\Debug\P08-PrimeCheck.exe
+D:\Telerik\C# Basics\HW03-OperatorsAndExpressions\P08-PrimeCheck\obj\Debug\P08-PrimeCheck.pdb

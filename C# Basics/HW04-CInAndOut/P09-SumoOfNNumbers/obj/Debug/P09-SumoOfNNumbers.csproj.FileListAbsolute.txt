@@ -1,0 +1,5 @@
+D:\Telerik\C# Basics\HW04-CInAndOut\P09-SumoOfNNumbers\bin\Debug\P09-SumoOfNNumbers.exe.config
+D:\Telerik\C# Basics\HW04-CInAndOut\P09-SumoOfNNumbers\bin\Debug\P09-SumoOfNNumbers.exe
+D:\Telerik\C# Basics\HW04-CInAndOut\P09-SumoOfNNumbers\bin\Debug\P09-SumoOfNNumbers.pdb
+D:\Telerik\C# Basics\HW04-CInAndOut\P09-SumoOfNNumbers\obj\Debug\P09-SumoOfNNumbers.exe
+D:\Telerik\C# Basics\HW04-CInAndOut\P09-SumoOfNNumbers\obj\Debug\P09-SumoOfNNumbers.pdb

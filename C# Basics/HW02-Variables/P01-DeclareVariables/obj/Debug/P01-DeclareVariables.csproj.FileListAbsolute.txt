@@ -1,0 +1,9 @@
+D:\Telerik\C# Basics\HW02-Variables\P01-DeclareVariables\bin\Debug\P01-DeclareVariables.exe.config
+D:\Telerik\C# Basics\HW02-Variables\P01-DeclareVariables\bin\Debug\P01-DeclareVariables.exe
+D:\Telerik\C# Basics\HW02-Variables\P01-DeclareVariables\bin\Debug\P01-DeclareVariables.pdb
+D:\Telerik\C# Basics\HW02-Variables\P01-DeclareVariables\obj\Debug\P01-DeclareVariables.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Basics\HW02-Variables\P01-DeclareVariables\obj\Debug\P01-DeclareVariables.exe
+D:\Telerik\C# Basics\HW02-Variables\P01-DeclareVariables\obj\Debug\P01-DeclareVariables.pdb
+H:\Telerik\C# Basics\HW02-Variables\P01-DeclareVariables\bin\Debug\P01-DeclareVariables.exe.config
+H:\Telerik\C# Basics\HW02-Variables\P01-DeclareVariables\obj\Debug\P01-DeclareVariables.exe
+H:\Telerik\C# Basics\HW02-Variables\P01-DeclareVariables\obj\Debug\P01-DeclareVariables.pdb

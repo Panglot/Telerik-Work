@@ -1,0 +1,6 @@
+D:\Telerik\C# Basics\HW06-Loops\P07-CalculateThree\bin\Debug\P07-CalculateThree.exe.config
+D:\Telerik\C# Basics\HW06-Loops\P07-CalculateThree\bin\Debug\P07-CalculateThree.exe
+D:\Telerik\C# Basics\HW06-Loops\P07-CalculateThree\bin\Debug\P07-CalculateThree.pdb
+D:\Telerik\C# Basics\HW06-Loops\P07-CalculateThree\obj\Debug\P07-CalculateThree.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Basics\HW06-Loops\P07-CalculateThree\obj\Debug\P07-CalculateThree.exe
+D:\Telerik\C# Basics\HW06-Loops\P07-CalculateThree\obj\Debug\P07-CalculateThree.pdb

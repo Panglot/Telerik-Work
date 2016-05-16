@@ -1,0 +1,6 @@
+D:\Telerik\C# Advanced\HW01-Arrays\P06-MaximalKsum\bin\Debug\P06-MaximalKsum.exe.config
+D:\Telerik\C# Advanced\HW01-Arrays\P06-MaximalKsum\obj\Debug\P06-MaximalKsum.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Advanced\HW01-Arrays\P06-MaximalKsum\bin\Debug\P06-MaximalKsum.exe
+D:\Telerik\C# Advanced\HW01-Arrays\P06-MaximalKsum\bin\Debug\P06-MaximalKsum.pdb
+D:\Telerik\C# Advanced\HW01-Arrays\P06-MaximalKsum\obj\Debug\P06-MaximalKsum.exe
+D:\Telerik\C# Advanced\HW01-Arrays\P06-MaximalKsum\obj\Debug\P06-MaximalKsum.pdb

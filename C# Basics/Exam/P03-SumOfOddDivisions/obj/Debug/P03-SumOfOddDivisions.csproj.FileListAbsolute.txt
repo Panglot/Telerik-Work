@@ -1,0 +1,9 @@
+C:\Dobri\Telerik\C# Basics\Exam\P03-SumOfOddDivisions\bin\Debug\P03-SumOfOddDivisions.exe.config
+C:\Dobri\Telerik\C# Basics\Exam\P03-SumOfOddDivisions\bin\Debug\P03-SumOfOddDivisions.exe
+C:\Dobri\Telerik\C# Basics\Exam\P03-SumOfOddDivisions\bin\Debug\P03-SumOfOddDivisions.pdb
+C:\Dobri\Telerik\C# Basics\Exam\P03-SumOfOddDivisions\obj\Debug\P03-SumOfOddDivisions.csprojResolveAssemblyReference.cache
+C:\Dobri\Telerik\C# Basics\Exam\P03-SumOfOddDivisions\obj\Debug\P03-SumOfOddDivisions.exe
+C:\Dobri\Telerik\C# Basics\Exam\P03-SumOfOddDivisions\obj\Debug\P03-SumOfOddDivisions.pdb
+H:\Telerik\C# Basics\Exam\P03-SumOfOddDivisions\bin\Debug\P03-SumOfOddDivisions.exe.config
+H:\Telerik\C# Basics\Exam\P03-SumOfOddDivisions\obj\Debug\P03-SumOfOddDivisions.exe
+H:\Telerik\C# Basics\Exam\P03-SumOfOddDivisions\obj\Debug\P03-SumOfOddDivisions.pdb

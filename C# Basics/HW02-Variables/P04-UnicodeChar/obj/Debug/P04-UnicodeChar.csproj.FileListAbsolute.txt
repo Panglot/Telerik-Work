@@ -1,0 +1,5 @@
+D:\Telerik\C# Basics\HW02-Variables\P04-UnicodeChar\bin\Debug\P04-UnicodeChar.exe.config
+D:\Telerik\C# Basics\HW02-Variables\P04-UnicodeChar\bin\Debug\P04-UnicodeChar.exe
+D:\Telerik\C# Basics\HW02-Variables\P04-UnicodeChar\bin\Debug\P04-UnicodeChar.pdb
+D:\Telerik\C# Basics\HW02-Variables\P04-UnicodeChar\obj\Debug\P04-UnicodeChar.exe
+D:\Telerik\C# Basics\HW02-Variables\P04-UnicodeChar\obj\Debug\P04-UnicodeChar.pdb

@@ -1,0 +1,8 @@
+D:\Telerik\C# Basics\HW02-Variables\P08-IsoTriangle\bin\Debug\P08-IsoTriangle.exe.config
+D:\Telerik\C# Basics\HW02-Variables\P08-IsoTriangle\bin\Debug\P08-IsoTriangle.exe
+D:\Telerik\C# Basics\HW02-Variables\P08-IsoTriangle\bin\Debug\P08-IsoTriangle.pdb
+D:\Telerik\C# Basics\HW02-Variables\P08-IsoTriangle\obj\Debug\P08-IsoTriangle.exe
+D:\Telerik\C# Basics\HW02-Variables\P08-IsoTriangle\obj\Debug\P08-IsoTriangle.pdb
+H:\Telerik\C# Basics\HW02-Variables\P08-IsoTriangle\bin\Debug\P08-IsoTriangle.exe.config
+H:\Telerik\C# Basics\HW02-Variables\P08-IsoTriangle\obj\Debug\P08-IsoTriangle.exe
+H:\Telerik\C# Basics\HW02-Variables\P08-IsoTriangle\obj\Debug\P08-IsoTriangle.pdb

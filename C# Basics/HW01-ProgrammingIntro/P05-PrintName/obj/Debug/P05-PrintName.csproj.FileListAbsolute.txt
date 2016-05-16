@@ -1,0 +1,5 @@
+H:\Telerik\C# Basics\HW01-ProgrammingIntro\P05-PrintName\bin\Debug\P05-PrintName.exe.config
+H:\Telerik\C# Basics\HW01-ProgrammingIntro\P05-PrintName\bin\Debug\P05-PrintName.exe
+H:\Telerik\C# Basics\HW01-ProgrammingIntro\P05-PrintName\bin\Debug\P05-PrintName.pdb
+H:\Telerik\C# Basics\HW01-ProgrammingIntro\P05-PrintName\obj\Debug\P05-PrintName.exe
+H:\Telerik\C# Basics\HW01-ProgrammingIntro\P05-PrintName\obj\Debug\P05-PrintName.pdb

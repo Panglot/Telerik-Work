@@ -1,0 +1,6 @@
+H:\Telerik\C# Basics\Exam Practise\2 February 2015\P04-3DCube\bin\Debug\P04-3DCube.exe.config
+H:\Telerik\C# Basics\Exam Practise\2 February 2015\P04-3DCube\bin\Debug\P04-3DCube.exe
+H:\Telerik\C# Basics\Exam Practise\2 February 2015\P04-3DCube\bin\Debug\P04-3DCube.pdb
+H:\Telerik\C# Basics\Exam Practise\2 February 2015\P04-3DCube\obj\Debug\P04-3DCube.csprojResolveAssemblyReference.cache
+H:\Telerik\C# Basics\Exam Practise\2 February 2015\P04-3DCube\obj\Debug\P04-3DCube.exe
+H:\Telerik\C# Basics\Exam Practise\2 February 2015\P04-3DCube\obj\Debug\P04-3DCube.pdb

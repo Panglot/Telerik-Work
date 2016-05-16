@@ -1,0 +1,5 @@
+H:\Telerik\C# Basics\HW05-ConditionalStatements\P03-PlayCard\bin\Debug\P03-PlayCard.exe.config
+H:\Telerik\C# Basics\HW05-ConditionalStatements\P03-PlayCard\bin\Debug\P03-PlayCard.exe
+H:\Telerik\C# Basics\HW05-ConditionalStatements\P03-PlayCard\bin\Debug\P03-PlayCard.pdb
+H:\Telerik\C# Basics\HW05-ConditionalStatements\P03-PlayCard\obj\Debug\P03-PlayCard.exe
+H:\Telerik\C# Basics\HW05-ConditionalStatements\P03-PlayCard\obj\Debug\P03-PlayCard.pdb
