@@ -13,3 +13,6 @@ H:\Telerik\C# Advanced\HW01-Arrays\P01-AllocateArray\obj\Debug\P01-AllocateArray
 H:\TelerikWork\C# Advanced\HW01-Arrays\P01-AllocateArray\bin\Debug\P01_AllocateArray.exe.config
 H:\TelerikWork\C# Advanced\HW01-Arrays\P01-AllocateArray\obj\Debug\P01_AllocateArray.exe
 H:\TelerikWork\C# Advanced\HW01-Arrays\P01-AllocateArray\obj\Debug\P01_AllocateArray.pdb
+H:\Telerik-Work\C# Advanced\HW01-Arrays\P01-AllocateArray\bin\Debug\P01_AllocateArray.exe.config
+H:\Telerik-Work\C# Advanced\HW01-Arrays\P01-AllocateArray\obj\Debug\P01_AllocateArray.exe
+H:\Telerik-Work\C# Advanced\HW01-Arrays\P01-AllocateArray\obj\Debug\P01_AllocateArray.pdb
