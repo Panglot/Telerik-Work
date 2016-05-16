@@ -18,7 +18,6 @@ namespace P01_AllocateArray
             {
                 Console.WriteLine(item);
             }
-            Console.WriteLine();
         }
     }
 }
