@@ -1,0 +1,12 @@
+.blue {
+    color: #0094ff;
+    font-family: Consolas;
+}
+.bigger {
+    font-size: 1.1em;
+}
+.first-letter {
+    font-family: Edwardian Script ITC;
+    font-size: 2em;
+    font-weight: bold;
+}

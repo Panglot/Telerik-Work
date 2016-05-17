@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Windows Calculator</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+
+    <div id="inner">
+        <div id="menu">
+            <span class="view"><span style="text-decoration:underline">V</span>iew</span>
+            <span class="edit"><span style="text-decoration:underline">E</span>dit</span>
+            <span class="help"><span style="text-decoration:underline">H</span>elp</span>
+        </div>
+        <input type="text" value="885445" disabled="disabled">
+        <table id="valueBox">
+            <tr>
+                <td>0000</td>
+                <td>0000</td>
+                <td>0000</td>
+                <td>0000</td>
+                <td>0000</td>
+                <td>0000</td>
+                <td>0000</td>
+                <td>0000</td>
+            </tr>
+            <tr>
+                <td class="bit-num-color">63</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="bit-num-color">47</td>
+                <td></td>
+                <td></td>
+                <td class="bit-num-color">&nbsp;&nbsp;32</td>
+            </tr>
+            <tr>
+                <td>0000</td>
+                <td>1000</td>
+                <td>0000</td>
+                <td>1000</td>
+                <td>0111</td>
+                <td>0001</td>
+                <td>0011</td>
+                <td>0111</td>
+            </tr>
+
+            <tr>
+                <td class="bit-num-color">31</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td class="bit-num-color">15</td>
+                <td></td>
+                <td></td>
+                <td class="bit-num-color">&nbsp;&nbsp;&nbsp;0</td>
+            </tr>
+        </table>
+        <fieldset style="top:171px;">
+            <input type="radio" name="numerics" value="Hex"> Hex
+            <br>
+            <input type="radio" name="numerics" value="Dec" checked="checked"> Dec
+            <br>
+            <input type="radio" name="numerics" value="Oct"> Oct
+            <br>
+            <input type="radio" name="numerics" value="Bin"> Bin
+        </fieldset>
+        <fieldset style="top:260px;">
+            <input type="radio" name="word" value="Qword"> Qword
+            <br>
+            <input type="radio" name="word" value="Dword" checked="checked"> Dword
+            <br>
+            <input type="radio" name="word" value="Word"> Word
+            <br>
+            <input type="radio" name="word" value="Byte"> Byte
+        </fieldset>
+        <table class="numbers" cellspacing="5">
+            <tr>
+                <td></td>
+                <td class="bck1">Mod</td>
+                <td class="grayborder">A</td>
+                <td class="bck1">MC</td>
+                <td class="bck1">MR</td>
+                <td class="bck1">MS</td>
+                <td class="bck1">M+</td>
+                <td class="bck1">M-</td>
+            </tr>
+            <tr>
+                <td class="bck1">(</td>
+                <td class="bck1">)</td>
+                <td class="grayborder">B</td>
+                <td class="bck1">&larr;</td>
+                <td class="bck1">CE</td>
+                <td class="bck1">C</td>
+                <td class="bck1">&plusmn;</td>
+                <td class="grayborder">&radic;</td>
+            </tr>
+            <tr>
+                <td class="bck1">RoL</td>
+                <td class="bck1">RoR</td>
+                <td class="grayborder">C</td>
+                <td class="bck2">7</td>
+                <td class="bck2">8</td>
+                <td class="bck2">9</td>
+                <td class="bck1">/</td>
+                <td class="grayborder">%</td>
+            </tr>
+            <tr>
+                <td class="bck1">Or</td>
+                <td class="bck1">Xor</td>
+                <td class="grayborder">D</td>
+                <td class="bck2">4</td>
+                <td class="bck2">5</td>
+                <td class="bck2">6</td>
+                <td class="bck1">*</td>
+                <td class="grayborder">1/x</td>
+            </tr>
+            <tr>
+                <td class="bck1">Lsh</td>
+                <td class="bck1">Rsh</td>
+                <td class="grayborder">E</td>
+                <td class="bck2">1</td>
+                <td class="bck2">2</td>
+                <td class="bck2">3</td>
+                <td class="bck1">-</td>
+                <td rowspan="2" class="bck1">=</td>
+            </tr>
+            <tr>
+                <td class="bck1">Not</td>
+                <td class="bck1">And</td>
+                <td class="grayborder">F</td>
+                <td colspan="2" class="bck2">0</td>
+                <td class="bck1">.</td>
+                <td class="bck1">+</td>
+            </tr>
+        </table>
+    </div>
+</body>
+</head>
+
+</html>
