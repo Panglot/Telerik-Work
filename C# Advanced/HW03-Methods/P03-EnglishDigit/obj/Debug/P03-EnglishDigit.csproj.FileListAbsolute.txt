@@ -1,0 +1,5 @@
+H:\Telerik-Work\C# Advanced\HW03-Methods\P03-EnglishDigit\bin\Debug\P03-EnglishDigit.exe.config
+H:\Telerik-Work\C# Advanced\HW03-Methods\P03-EnglishDigit\bin\Debug\P03-EnglishDigit.exe
+H:\Telerik-Work\C# Advanced\HW03-Methods\P03-EnglishDigit\bin\Debug\P03-EnglishDigit.pdb
+H:\Telerik-Work\C# Advanced\HW03-Methods\P03-EnglishDigit\obj\Debug\P03-EnglishDigit.exe
+H:\Telerik-Work\C# Advanced\HW03-Methods\P03-EnglishDigit\obj\Debug\P03-EnglishDigit.pdb

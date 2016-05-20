@@ -1,0 +1,6 @@
+H:\Telerik-Work\C# Advanced\HW03-Methods\P01-SayHello\bin\Debug\P01-SayHello.exe.config
+H:\Telerik-Work\C# Advanced\HW03-Methods\P01-SayHello\bin\Debug\P01-SayHello.exe
+H:\Telerik-Work\C# Advanced\HW03-Methods\P01-SayHello\bin\Debug\P01-SayHello.pdb
+H:\Telerik-Work\C# Advanced\HW03-Methods\P01-SayHello\obj\Debug\P01-SayHello.csprojResolveAssemblyReference.cache
+H:\Telerik-Work\C# Advanced\HW03-Methods\P01-SayHello\obj\Debug\P01-SayHello.exe
+H:\Telerik-Work\C# Advanced\HW03-Methods\P01-SayHello\obj\Debug\P01-SayHello.pdb

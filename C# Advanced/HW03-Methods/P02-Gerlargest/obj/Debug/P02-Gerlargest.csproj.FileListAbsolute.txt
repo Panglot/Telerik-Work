@@ -1,0 +1,5 @@
+H:\Telerik-Work\C# Advanced\HW03-Methods\P02-Gerlargest\bin\Debug\P02-Gerlargest.exe.config
+H:\Telerik-Work\C# Advanced\HW03-Methods\P02-Gerlargest\bin\Debug\P02-Gerlargest.exe
+H:\Telerik-Work\C# Advanced\HW03-Methods\P02-Gerlargest\bin\Debug\P02-Gerlargest.pdb
+H:\Telerik-Work\C# Advanced\HW03-Methods\P02-Gerlargest\obj\Debug\P02-Gerlargest.exe
+H:\Telerik-Work\C# Advanced\HW03-Methods\P02-Gerlargest\obj\Debug\P02-Gerlargest.pdb

@@ -1,0 +1,5 @@
+H:\Telerik-Work\C# Advanced\HW03-Methods\P06-FirstLarger\bin\Debug\P06-FirstLarger.exe.config
+H:\Telerik-Work\C# Advanced\HW03-Methods\P06-FirstLarger\bin\Debug\P06-FirstLarger.exe
+H:\Telerik-Work\C# Advanced\HW03-Methods\P06-FirstLarger\bin\Debug\P06-FirstLarger.pdb
+H:\Telerik-Work\C# Advanced\HW03-Methods\P06-FirstLarger\obj\Debug\P06-FirstLarger.exe
+H:\Telerik-Work\C# Advanced\HW03-Methods\P06-FirstLarger\obj\Debug\P06-FirstLarger.pdb
