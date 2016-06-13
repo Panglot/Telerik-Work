@@ -1,0 +1,88 @@
+#root {
+  width: 720px;
+  font-size: 18px;
+  font-family: Arial, sans-serif;
+    background-color: #8B7C6D;
+    height: 700px;
+}
+.remark{
+  display: none;
+}
+.container{
+  display: flex;
+}
+.header{
+  text-align: center;
+}
+.description{
+  clear: both;
+  text-align: justify;
+}
+.header, .description{
+  margin: 20px;
+}
+.header, h2, .description>strong{
+  color: #DEC9B3;
+  text-shadow: 2.5px 2.5px 2px black;
+}
+h2{
+  text-decoration: underline;
+  font-size: 1.2em;
+  float: right;
+  margin-right: 10px;
+}
+
+h2::after{
+  clear: both;
+}
+.heroes-list{
+  padding-left: 5px;
+  width: 100%;
+  height: 100%
+}
+.hero-item{
+  border: 1px solid #FFFADA;
+  border-radius: 5px;
+    list-style-type: none;
+    padding: 5px;
+    width: 45%;
+    box-shadow: 3px 3px 6px black;
+    margin: 5px;
+    height: 230px;
+
+}
+.hero-item>img{
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  border: 1px solid #FFFADA;
+  position: relative;
+  float:  right;
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+
+.hero-item:nth-of-type(1){
+  position: relative;
+}
+.hero-item:nth-of-type(2){
+ position: relative;
+ left: 49%;
+ top: -246px;
+
+}
+.hero-item:nth-of-type(3){
+  position: relative;
+  left: 0%;
+  top: -238px;
+}
+.hero-item:nth-of-type(4){
+  position: relative;
+  left: 49%;
+  top: -484px;
+}
+
+h1, h1+p{
+  margin-right: 30px;
+}

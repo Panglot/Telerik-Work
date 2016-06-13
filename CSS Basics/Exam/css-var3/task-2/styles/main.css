@@ -1,0 +1,52 @@
+#root {
+    width: 500px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #FFFADA;
+    height: 250px;
+}
+#site-header {
+    text-align: center;
+}
+img {
+    position: absolute;
+    left: 270px;
+    top: 80px;
+    width: 150px;
+    border: 2px solid #A53E36;
+    border-radius: 5px;
+    display: none;
+}
+li {
+    padding: 5px;
+    text-align: center;
+    border-bottom: 1px solid black;
+    width: 30%;
+}
+li:last-of-type {
+    border: 0;
+}
+li>a {
+    background-color: rgba(192, 192, 192, 0.3);
+    border: 3px solid rgb(192, 192, 192);
+    position: absolute;
+    left: 270px;
+    top: 210px;
+    width: 150px;
+    color: #FFFADA;
+    display: none;
+}
+.hero-header {
+    text-align: center;
+}
+.hero-header:hover {
+    text-shadow: 2px 2px 2px #A53E36;
+}
+.hero-header:hover~img {
+    display: block;
+}
+.hero-header:hover~a {
+    display: block;
+}
+.superheroes {
+    list-style-type: none;
+}
