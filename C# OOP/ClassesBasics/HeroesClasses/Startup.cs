@@ -7,14 +7,12 @@ using System.Threading.Tasks;
 
 namespace HeroesClasses
 {
-    class Superheroes
+    class Startup
     {
         static void Main(string[] args)
         {
-
-            var hero = new Superhero("Karnobatman");
-            
-            Console.WriteLine(hero.Name);
+            Cat myCat = new Cat("kiro");
+            myCat.Move();
         }
 
     }

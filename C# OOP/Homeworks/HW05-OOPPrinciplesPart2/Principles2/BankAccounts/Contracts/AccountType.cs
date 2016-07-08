@@ -4,10 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Models
+namespace Principles2.BankAccounts.Contracts
 {
-    class FlyingSuperhero 
+    public enum AccountType
     {
-        
+        loan,
+        deposit,
+        mortage
     }
 }
