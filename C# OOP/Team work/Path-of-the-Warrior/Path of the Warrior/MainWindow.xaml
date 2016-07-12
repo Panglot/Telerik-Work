@@ -1,0 +1,17 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" x:Name="main" mc:Ignorable="d" x:Class="PathOfTheWarrior.WPF.MainWindow"
+        Title="MainWindow" Height="733" Width="1000" ResizeMode="NoResize" HorizontalAlignment="Center" VerticalAlignment="Center">
+
+    
+    <Frame x:Name="mainFrame" Content="" NavigationUIVisibility="Hidden"/>
+
+    <Window.Resources>
+        <BitmapImage x:Key="Map" UriSource="WPF/Images/map.jpg" />
+        <BitmapImage x:Key="Light" UriSource="WPF/Images/lightArmor.png" />
+        <BitmapImage x:Key="Medium" UriSource="WPF/Images/mediumArmor.png" />
+        <BitmapImage x:Key="Heavy" UriSource="WPF/Images/heavyArmor.png" />
+
+    </Window.Resources>
+</Window>

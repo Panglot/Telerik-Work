@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{602AB93B-86E7-4C2B-ACAD-7A0A2BEE64D8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PathOfTheWarrior</RootNamespace>
+    <AssemblyName>PathOfTheWarrior</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Characters\Character.cs" />
+    <Compile Include="Characters\Enemy.cs" />
+    <Compile Include="Characters\Hero.cs" />
+    <Compile Include="Enumerations\WeaponTypes.cs" />
+    <Compile Include="Exceptions\CustomException.cs" />
+    <Compile Include="Factory Method Pattern\DamagePotionCreator.cs" />
+    <Compile Include="Factory Method Pattern\HealthPotionCreator.cs" />
+    <Compile Include="Factory Method Pattern\PotionCreator.cs" />
+    <Compile Include="Interfaces\ICharacter.cs" />
+    <Compile Include="Interfaces\IDamageUp.cs" />
+    <Compile Include="Interfaces\IHasAvatar.cs" />
+    <Compile Include="Interfaces\IHealthUp.cs" />
+    <Compile Include="Interfaces\ISkill.cs" />
+    <Compile Include="Interfaces\INameable.cs" />
+    <Compile Include="Factory Method Pattern\Consumable.cs" />
+    <Compile Include="Factory Method Pattern\DamagePotion.cs" />
+    <Compile Include="Factory Method Pattern\HealthPotion.cs" />
+    <Compile Include="Items\Trophy.cs" />
+    <Compile Include="Items\Weapon.cs" />
+    <Compile Include="Items\Armor.cs" />
+    <Compile Include="Items\Item.cs" />
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="WPF\Pages\ArmorSelect.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="WPF\Pages\HeroSelect.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="WPF\Pages\MainMap.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="WPF\Pages\SkillSelect.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="WPF\Pages\StartPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Skills\Heal.cs" />
+    <Compile Include="Skills\Mutilate.cs" />
+    <Compile Include="Skills\PrecisionStrike.cs" />
+    <Compile Include="Skills\Skill.cs" />
+    <Compile Include="Structures\Point.cs" />
+    <Compile Include="WPF\Pages\ArmorSelect.xaml.cs">
+      <DependentUpon>ArmorSelect.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="WPF\Pages\Forms.cs" />
+    <Compile Include="WPF\Pages\Forms_2.cs" />
+    <Compile Include="WPF\Pages\HeroSelect.xaml.cs">
+      <DependentUpon>HeroSelect.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="WPF\Pages\MainMap.xaml.cs">
+      <DependentUpon>MainMap.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="WPF\Pages\SkillSelect.xaml.cs">
+      <DependentUpon>SkillSelect.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="WPF\Pages\StartPage.xaml.cs">
+      <DependentUpon>StartPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <Resource Include="WPF\Fonts\msyi.ttf" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="WPF\Images\combat.jpg" />
+    <Resource Include="WPF\Images\map.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="WPF\Images\blur.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="WPF\Images\archer.png" />
+    <Resource Include="WPF\Images\spearman.png" />
+    <Resource Include="WPF\Images\swordsman.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="WPF\Images\amulet.png" />
+    <Resource Include="WPF\Images\bow.png" />
+    <Resource Include="WPF\Images\crocs.png" />
+    <Resource Include="WPF\Images\DMGpotion.png" />
+    <Resource Include="WPF\Images\heavyArmor.png" />
+    <Resource Include="WPF\Images\HPpotion.png" />
+    <Resource Include="WPF\Images\lightArmor.png" />
+    <Resource Include="WPF\Images\mediumArmor.png" />
+    <Resource Include="WPF\Images\spear.png" />
+    <Resource Include="WPF\Images\sword.png" />
+    <Resource Include="WPF\Images\trap.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="WPF\Images\heal.png" />
+    <Resource Include="WPF\Images\mutilate.png" />
+    <Resource Include="WPF\Images\precisionStrike.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="WPF\Images\matt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="WPF\Images\ork.png" />
+    <Resource Include="WPF\Images\shadow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="WPF\Images\treasure.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="exe\Path of the Warrior.vshost.exe" />
+    <Content Include="exe\PathOfTheWarrior.exe" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
