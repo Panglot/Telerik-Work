@@ -6,8 +6,10 @@
         xmlns:local="clr-namespace:VeryBasicApp"
         mc:Ignorable="d"
         Title="MainWindow" Width="1000" Height="800"
-        WindowStartupLocation="CenterScreen">
-    <Grid>
+        WindowStartupLocation="CenterScreen"
+        
+        >
+    <Grid>        
         <Button x:Name="DemoButton" Content="Click for test." HorizontalAlignment="Center" VerticalAlignment="Center" Width="268" Height="110" FontFamily="Calibri" FontSize="36" Click="DemoButton_Click" Margin="202,330,522,330" >           
         </Button>
         <Button x:Name="DemoButton2" Content="Click for test." HorizontalAlignment="Center" VerticalAlignment="Center" Width="268" Height="110" FontFamily="Calibri" FontSize="36" Click="DemoButton2_Click" Margin="524,330,200,330" >           
