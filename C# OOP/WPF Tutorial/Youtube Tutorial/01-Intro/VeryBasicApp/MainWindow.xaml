@@ -1,0 +1,17 @@
+﻿<Window x:Class="VeryBasicApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VeryBasicApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Width="1000" Height="800"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Button x:Name="DemoButton" Content="Click for test." HorizontalAlignment="Center" VerticalAlignment="Center" Width="268" Height="110" FontFamily="Calibri" FontSize="36" Click="DemoButton_Click" Margin="202,330,522,330" >           
+        </Button>
+        <Button x:Name="DemoButton2" Content="Click for test." HorizontalAlignment="Center" VerticalAlignment="Center" Width="268" Height="110" FontFamily="Calibri" FontSize="36" Click="DemoButton2_Click" Margin="524,330,200,330" >           
+        </Button>
+
+    </Grid>
+</Window>
