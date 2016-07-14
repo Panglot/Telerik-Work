@@ -8,6 +8,8 @@
         Title="MainWindow" Height="900" Width="1000"
         WindowStartupLocation="CenterScreen">
     <Grid>
-        
+        <Button x:Name="button" Content="{Binding ElementName=textBox, Path=Text}" HorizontalAlignment="Center" Margin="0,282,0,0" VerticalAlignment="Top" Width="323" FontFamily="Calibri" FontSize="36" Height="141"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Center" Height="145" Margin="384,520,356,0" TextWrapping="Wrap" Text="Bound Content" VerticalAlignment="Top" Width="252" FontFamily="Calibri" FontSize="36" TextAlignment="Center"/>
+
     </Grid>
 </Window>
